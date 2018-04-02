@@ -1,0 +1,12 @@
+.tab-wrapper{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: .9rem;
+    z-index: 500;
+}
+
+.scrolllist-root{
+    border-top: .9rem solid transparent;
+    box-sizing: border-box;
+}
