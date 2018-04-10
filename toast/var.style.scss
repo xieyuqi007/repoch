@@ -1,0 +1,78 @@
+$MAIN_COLOR: #000;
+
+/*文本颜色*/
+$txtDefault: #333;
+$txtInfo: #939393;
+$txtMuted: #939393;
+$txtHighlight: #ff8200;
+$txtWarning: #f46200;
+$txtLink: #507daf;
+
+/*边线颜色*/
+$border: #e5e5e5;
+
+// container definition
+$CONTAINER_CUSTOM_PADDING_LEFT: 2%;
+$CONTAINER_CUSTOM_PADDING_RIGHT: $CONTAINER_CUSTOM_PADDING_LEFT;
+
+//弹性flex
+@mixin flexLayout($direction: row) {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-flow: $direction wrap;
+}
+
+//项目相关变量
+$primary_color: #ff8200;
+$primary_color2: #ff5f4b;
+$border_color: #e5e5e5;
+$label_color: #bdbdbd;
+$text_color: #333;
+$bg_color: #f0efe3;
+$bg_color2: #32323e;
+$base_size: .26rem;
+$transition-time: .2s;
+$option_red: #ff5f4b;
+$option_blue: #5a96e6;
+$option_green: #44bc87;
+$option_yellow: #ffaa0a;
+$dark_blue: #507daf;
+$border_radius: .05rem;
+
+.empty {
+    height: 100%;
+    width: 100%;
+    @include flexLayout(column);
+    justify-content: flex-start;
+    padding-top: 1.75rem;
+    img {
+        margin-left: .1rem;
+        width: 2.5rem;
+        height: 2.02rem;
+    }
+    .tips {
+        padding-top: .6rem;
+        color: #939393;
+        font-size: .28rem;
+    }
+    .e-btn {
+        margin-top: .79rem;
+        width: 3.1rem;
+        height: .74rem;
+        line-height: .7rem;
+        border: 1px solid #ccc;
+        border-radius: .05rem;
+        font-size: .34rem;
+        color: #ff8200;
+        text-align: center;
+    }
+}
+
+.summary-txt {
+    color: #939393;
+    font-size: .24rem;
+    text-align: center;
+    height: .6rem;
+    line-height: .6rem;
+}
