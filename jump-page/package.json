@@ -1,0 +1,51 @@
+{
+  "_from": "@repoch/jump-page@^0.1.0",
+  "_id": "@repoch/jump-page@0.1.1",
+  "_inBundle": false,
+  "_integrity": "sha1-aPXfMG83N6eRc5wRFE8yLD5OsxM=",
+  "_location": "/@repoch/jump-page",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@repoch/jump-page@^0.1.0",
+    "name": "@repoch/jump-page",
+    "escapedName": "@repoch%2fjump-page",
+    "scope": "@repoch",
+    "rawSpec": "^0.1.0",
+    "saveSpec": null,
+    "fetchSpec": "^0.1.0"
+  },
+  "_requiredBy": [
+    "/@repoch/ajax"
+  ],
+  "_resolved": "http://registry.npm.intra.weibo.cn/@repoch/jump-page/download/@repoch/jump-page-0.1.1.tgz",
+  "_shasum": "68f5df306f3737a791739c11144f322c3e4eb313",
+  "_spec": "@repoch/jump-page@^0.1.0",
+  "_where": "/Users/yuqi/Documents/workspace/finance/front/node_modules/@repoch/ajax",
+  "author": {
+    "name": "repoch"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@repoch/is-same-origin": "^0.1.0",
+    "@repoch/react-router": "^3.0.5",
+    "@repoch/ua-detector": "^0.1.0"
+  },
+  "deprecated": false,
+  "description": "页面跳转功能函数",
+  "devDependencies": {},
+  "keywords": [
+    "router",
+    "react"
+  ],
+  "license": "MIT",
+  "main": "index",
+  "name": "@repoch/jump-page",
+  "repository": {
+    "type": "git",
+    "url": "http://git.intra.weibo.com/repoch/jump-page.git"
+  },
+  "scripts": {},
+  "version": "0.1.1"
+}

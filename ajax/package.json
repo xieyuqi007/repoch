@@ -1,0 +1,59 @@
+{
+  "_from": "@repoch/ajax@^0.1.4",
+  "_id": "@repoch/ajax@0.1.8",
+  "_inBundle": false,
+  "_integrity": "sha1-eOEu3fgvHnsFPbokGn5jo9BupXo=",
+  "_location": "/@repoch/ajax",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@repoch/ajax@^0.1.4",
+    "name": "@repoch/ajax",
+    "escapedName": "@repoch%2fajax",
+    "scope": "@repoch",
+    "rawSpec": "^0.1.4",
+    "saveSpec": null,
+    "fetchSpec": "^0.1.4"
+  },
+  "_requiredBy": [
+    "/@repoch/framework",
+    "/@repoch/upload"
+  ],
+  "_resolved": "http://registry.npm.intra.weibo.cn/@repoch/ajax/download/@repoch/ajax-0.1.8.tgz",
+  "_shasum": "78e12eddf82f1e7b053dba241a7e63a3d06ea57a",
+  "_spec": "@repoch/ajax@^0.1.4",
+  "_where": "/Users/yuqi/Documents/workspace/finance/front/node_modules/@repoch/framework",
+  "author": {
+    "name": "repoch"
+  },
+  "bugs": {
+    "url": "https://github.com/mzabriskie/axios/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@repoch/format": "^0.1.0",
+    "@repoch/jump-page": "^0.1.0",
+    "@repoch/logger": "^0.1.0"
+  },
+  "deprecated": false,
+  "description": "基于axios 0.15.3的ajax封装",
+  "devDependencies": {},
+  "homepage": "http://git.intra.weibo.com/repoch/ajax.git",
+  "keywords": [
+    "xhr",
+    "http",
+    "ajax",
+    "promise",
+    "node"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "@repoch/ajax",
+  "repository": {
+    "type": "git",
+    "url": "http://git.intra.weibo.com/repoch/ajax.git"
+  },
+  "scripts": {},
+  "version": "0.1.8"
+}

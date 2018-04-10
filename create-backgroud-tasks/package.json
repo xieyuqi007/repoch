@@ -1,0 +1,47 @@
+{
+  "_from": "@repoch/create-backgroud-tasks@0.1.2",
+  "_id": "@repoch/create-backgroud-tasks@0.1.2",
+  "_inBundle": false,
+  "_integrity": "sha1-oxZn42OML+I5+kAk9ZNKR8nmvh8=",
+  "_location": "/@repoch/create-backgroud-tasks",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@repoch/create-backgroud-tasks@0.1.2",
+    "name": "@repoch/create-backgroud-tasks",
+    "escapedName": "@repoch%2fcreate-backgroud-tasks",
+    "scope": "@repoch",
+    "rawSpec": "0.1.2",
+    "saveSpec": null,
+    "fetchSpec": "0.1.2"
+  },
+  "_requiredBy": [
+    "/@repoch/logger"
+  ],
+  "_resolved": "http://registry.npm.intra.weibo.cn/@repoch/create-backgroud-tasks/download/@repoch/create-backgroud-tasks-0.1.2.tgz",
+  "_shasum": "a31667e3638c2fe239fa4024f5934a47c9e6be1f",
+  "_spec": "@repoch/create-backgroud-tasks@0.1.2",
+  "_where": "/Users/yuqi/Documents/workspace/finance/front/node_modules/@repoch/logger",
+  "author": {
+    "name": "repoch"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@repoch/dom-helper": "^0.1.4",
+    "warning": "3.0.0"
+  },
+  "deprecated": false,
+  "description": "闲时任务调度",
+  "keywords": [
+    "backgroud-tasks"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "@repoch/create-backgroud-tasks",
+  "repository": {
+    "type": "git",
+    "url": "http://git.intra.weibo.com/repoch/create-backgroud-tasks.git"
+  },
+  "version": "0.1.2"
+}

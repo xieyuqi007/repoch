@@ -1,0 +1,50 @@
+{
+  "_from": "@repoch/dom-helper@^0.1.0",
+  "_id": "@repoch/dom-helper@0.1.5",
+  "_inBundle": false,
+  "_integrity": "sha1-axMRSOiK1yKe1vDpJ9rkbotYQsc=",
+  "_location": "/@repoch/dom-helper",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@repoch/dom-helper@^0.1.0",
+    "name": "@repoch/dom-helper",
+    "escapedName": "@repoch%2fdom-helper",
+    "scope": "@repoch",
+    "rawSpec": "^0.1.0",
+    "saveSpec": null,
+    "fetchSpec": "^0.1.0"
+  },
+  "_requiredBy": [
+    "/@repoch/create-backgroud-tasks",
+    "/@repoch/framework",
+    "/@repoch/listview",
+    "/@repoch/scroll"
+  ],
+  "_resolved": "http://registry.npm.intra.weibo.cn/@repoch/dom-helper/download/@repoch/dom-helper-0.1.5.tgz",
+  "_shasum": "6b131148e88ad7229ed6f0e927dae46e8b5842c7",
+  "_spec": "@repoch/dom-helper@^0.1.0",
+  "_where": "/Users/yuqi/Documents/workspace/finance/front/node_modules/@repoch/framework",
+  "author": {
+    "name": "repoch"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "微博STK",
+  "devDependencies": {},
+  "keywords": [
+    "dom",
+    "STK"
+  ],
+  "license": "MIT",
+  "main": "index",
+  "name": "@repoch/dom-helper",
+  "repository": {
+    "type": "git",
+    "url": "http://git.intra.weibo.com/repoch/dom-helper.git"
+  },
+  "scripts": {},
+  "version": "0.1.5"
+}

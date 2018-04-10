@@ -1,0 +1,49 @@
+{
+  "_from": "@repoch/ua-detector@^0.1.0",
+  "_id": "@repoch/ua-detector@0.1.0",
+  "_inBundle": false,
+  "_integrity": "sha1-nD63DEPB/1awMM0i4EQXKY9cI/Y=",
+  "_location": "/@repoch/ua-detector",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@repoch/ua-detector@^0.1.0",
+    "name": "@repoch/ua-detector",
+    "escapedName": "@repoch%2fua-detector",
+    "scope": "@repoch",
+    "rawSpec": "^0.1.0",
+    "saveSpec": null,
+    "fetchSpec": "^0.1.0"
+  },
+  "_requiredBy": [
+    "/@repoch/framework",
+    "/@repoch/jump-page",
+    "/@repoch/logger"
+  ],
+  "_resolved": "http://registry.npm.intra.weibo.cn/@repoch/ua-detector/download/@repoch/ua-detector-0.1.0.tgz",
+  "_shasum": "9c3eb70c43c1ff56b030cd22e04417298f5c23f6",
+  "_spec": "@repoch/ua-detector@^0.1.0",
+  "_where": "/Users/yuqi/Documents/workspace/finance/front/node_modules/@repoch/framework",
+  "author": {
+    "name": "repoch"
+  },
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "ua解析器",
+  "devDependencies": {},
+  "keywords": [
+    "ua",
+    "fromWeibo"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "@repoch/ua-detector",
+  "repository": {
+    "type": "git",
+    "url": "http://git.intra.weibo.com/repoch/ua-detector.git"
+  },
+  "scripts": {},
+  "version": "0.1.0"
+}

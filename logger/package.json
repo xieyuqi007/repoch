@@ -1,0 +1,51 @@
+{
+  "_from": "@repoch/logger@^0.1.4",
+  "_id": "@repoch/logger@0.1.6",
+  "_inBundle": false,
+  "_integrity": "sha1-kpMxKKLPyxsYgnGfhThclazlYrY=",
+  "_location": "/@repoch/logger",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@repoch/logger@^0.1.4",
+    "name": "@repoch/logger",
+    "escapedName": "@repoch%2flogger",
+    "scope": "@repoch",
+    "rawSpec": "^0.1.4",
+    "saveSpec": null,
+    "fetchSpec": "^0.1.4"
+  },
+  "_requiredBy": [
+    "/@repoch/ajax",
+    "/@repoch/framework"
+  ],
+  "_resolved": "http://registry.npm.intra.weibo.cn/@repoch/logger/download/@repoch/logger-0.1.6.tgz",
+  "_shasum": "92933128a2cfcb1b1882719f85385c95ace562b6",
+  "_spec": "@repoch/logger@^0.1.4",
+  "_where": "/Users/yuqi/Documents/workspace/finance/front/node_modules/@repoch/framework",
+  "author": {
+    "name": "repoch"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@repoch/create-backgroud-tasks": "0.1.2",
+    "@repoch/ua-detector": "^0.1.0",
+    "@repoch/weibo-jsbridge": "^0.1.0"
+  },
+  "deprecated": false,
+  "description": "日志上报脚本",
+  "devDependencies": {},
+  "keywords": [
+    "log"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "@repoch/logger",
+  "repository": {
+    "type": "git",
+    "url": "http://git.intra.weibo.com/repoch/logger.git"
+  },
+  "scripts": {},
+  "version": "0.1.6"
+}

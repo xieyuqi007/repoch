@@ -1,0 +1,49 @@
+{
+  "_from": "@repoch/weibo-jsbridge@^0.1.0",
+  "_id": "@repoch/weibo-jsbridge@0.1.0",
+  "_inBundle": false,
+  "_integrity": "sha1-EvJo9Ocnkff5QSNd7/B6QdDX9YM=",
+  "_location": "/@repoch/weibo-jsbridge",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@repoch/weibo-jsbridge@^0.1.0",
+    "name": "@repoch/weibo-jsbridge",
+    "escapedName": "@repoch%2fweibo-jsbridge",
+    "scope": "@repoch",
+    "rawSpec": "^0.1.0",
+    "saveSpec": null,
+    "fetchSpec": "^0.1.0"
+  },
+  "_requiredBy": [
+    "/@repoch/logger",
+    "/@repoch/upload"
+  ],
+  "_resolved": "http://registry.npm.intra.weibo.cn/@repoch/weibo-jsbridge/download/@repoch/weibo-jsbridge-0.1.0.tgz",
+  "_shasum": "12f268f4e72791f7f941235deff07a41d0d7f583",
+  "_spec": "@repoch/weibo-jsbridge@^0.1.0",
+  "_where": "/Users/yuqi/Documents/workspace/finance/front/node_modules/@repoch/logger",
+  "author": {
+    "name": "repoch"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "dom-helpers": "2.4.0"
+  },
+  "deprecated": false,
+  "description": "weibo的jsbridge封装",
+  "devDependencies": {},
+  "keywords": [
+    "weibo-jsbridge"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "@repoch/weibo-jsbridge",
+  "repository": {
+    "type": "git",
+    "url": "http://git.intra.weibo.com/repoch/weibo-jsbridge.git"
+  },
+  "scripts": {},
+  "version": "0.1.0"
+}

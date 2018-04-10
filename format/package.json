@@ -1,0 +1,56 @@
+{
+  "_from": "@repoch/format@^0.1.2",
+  "_id": "@repoch/format@0.1.3",
+  "_inBundle": false,
+  "_integrity": "sha1-dy2GIMDzlY3OdY0GOuM8U4H7L+Y=",
+  "_location": "/@repoch/format",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@repoch/format@^0.1.2",
+    "name": "@repoch/format",
+    "escapedName": "@repoch%2fformat",
+    "scope": "@repoch",
+    "rawSpec": "^0.1.2",
+    "saveSpec": null,
+    "fetchSpec": "^0.1.2"
+  },
+  "_requiredBy": [
+    "/",
+    "/@repoch/ajax",
+    "/@repoch/framework",
+    "/@repoch/lazyload"
+  ],
+  "_resolved": "http://registry.npm.intra.weibo.cn/@repoch/format/download/@repoch/format-0.1.3.tgz",
+  "_shasum": "772d8620c0f3958dce758d063ae33c5381fb2fe6",
+  "_spec": "@repoch/format@^0.1.2",
+  "_where": "/Users/yuqi/Documents/workspace/finance/front",
+  "author": {
+    "name": "repoch"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@repoch/encrypt": "^0.1.0"
+  },
+  "deprecated": false,
+  "description": "字符串格式化",
+  "devDependencies": {},
+  "keywords": [
+    "format",
+    "图床",
+    "json-to-query",
+    "encodeHTML",
+    "query-to-json",
+    "decodeHTML"
+  ],
+  "license": "MIT",
+  "main": "index",
+  "name": "@repoch/format",
+  "repository": {
+    "type": "git",
+    "url": "http://git.intra.weibo.com/repoch/format.git"
+  },
+  "scripts": {},
+  "version": "0.1.3"
+}
